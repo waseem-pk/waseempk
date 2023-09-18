@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wasimpk
+- 👋 Hi, I’m @waseem-pk
 - 👀 I’m interested in iOS development
 - 🌱 Love to work with UIKit & SwiftUI
 - 💞️ I’m looking to collaborate on project Development
