@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wasimpk
-- 👀 I’m interested in Project Management, development
-- 🌱 Love to work with iOS,Cloud and Blockchain Tech.
+- 👀 I’m interested in iOS development
+- 🌱 Love to work with UIKit & SwiftUI
 - 💞️ I’m looking to collaborate on project Development
 - 📫 How to reach me : 
 Email:  me.wasimpk@gmail.com
